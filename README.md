@@ -9,3 +9,5 @@ This repo contains some resources I've used alongside years in order to learn En
 # German
 
 # Spanish
+
+# Italian
