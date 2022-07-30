@@ -7,3 +7,5 @@ This repo contains some resources I've used alongside years in order to learn En
 # French
 
 # German
+
+# Spanish
