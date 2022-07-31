@@ -7,6 +7,7 @@ This repo contains some resources I've used alongside years in order to learn En
 - https://www.duolingo.com/
 - https://jointoucan.com/dashboard/settings
 - https://uk.babbel.com/pages/en-gb/evergreen-multilanguage?bsc=gg_br_srh_eng_all&btp=default&gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqDH81Dt6a1N6M7Lesm4dsoDefw7I_c9IL6ghP63Rowp9Xb2Rx_8tcgaAmBmEALw_wcB&utm_content=16569730060_135261627540_kwd-1921491545_587694951270&utm_medium=cpc&utm_source=google
+- https://www.lingohut.com/en
 
 # English
 - https://www.bbc.co.uk/learningenglish/
