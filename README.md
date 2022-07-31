@@ -21,6 +21,6 @@ This repo contains some resources I've used alongside years in order to learn En
 - https://english.elpais.com/economy-and-business/2021-11-15/el-pais-offers-free-spanish-lessons-with-gymglish.html
 
 # Italian
-
+- https://www.theitalianexperiment.com/
 
 # Portuguese
