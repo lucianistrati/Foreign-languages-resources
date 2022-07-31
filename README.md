@@ -12,6 +12,7 @@ This repo contains some resources I've used alongside years in order to learn En
 # French
 
 # German
+- https://www.dw.com/en/learn-german/s-2469
 
 # Spanish
 
