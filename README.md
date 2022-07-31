@@ -24,3 +24,4 @@ This repo contains some resources I've used alongside years in order to learn En
 - https://www.theitalianexperiment.com/
 
 # Portuguese
+- https://www.practiceportuguese.com/
