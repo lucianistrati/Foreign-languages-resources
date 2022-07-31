@@ -4,6 +4,8 @@ This repo contains some resources I've used alongside years in order to learn En
 
 # All languages
 
+- https://www.duolingo.com/
+
 # English
 
 # French
