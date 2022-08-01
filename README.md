@@ -9,7 +9,7 @@ This repo contains some resources I've used alongside years in order to learn En
 - https://uk.babbel.com/pages/en-gb/evergreen-multilanguage?bsc=gg_br_srh_eng_all&btp=default&gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqDH81Dt6a1N6M7Lesm4dsoDefw7I_c9IL6ghP63Rowp9Xb2Rx_8tcgaAmBmEALw_wcB&utm_content=16569730060_135261627540_kwd-1921491545_587694951270&utm_medium=cpc&utm_source=google
 - https://www.lingohut.com/en
 - https://www.rosettastone.eu/lp/h3/?utm_campaign=AW_NonBrand_NU_EMEA_ENG_Generic&gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqBRtkdVz5_g-h8aVMFeIHSuVy_r4saCC9tO9wcU5383DEp7sgGiYBAaAlPSEALw_wcB
-- https://preply.com/en/d/frontdoor-sem--lp?campaignid=12130927581&network=g&adgroupid=119364894920&keyword=study+a+language&matchtype=e&creative=589037986445&targetid=kwd-320303993455&placement=&loc_physical_ms=1011795&device=c&utm_source=google&utm_medium=cpc&gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqAw-O-v22Vx78B_qQG0tF4UJXrOrnNRENBA3EptsouQ5G4IyfGAdlAaAhMBEALw_wcB
+- https://preply.com/
 - https://www.italki.com/?utm_source=google_ads&utm_medium=search&utm_campaign=BAU_202110_EU&utm_content=generic-en&gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqC45Lf6ziNjlF5gf9rzB4Yr3BW9xijck0zKZ_R1zihlWdFkSnuQUy8aAljSEALw_wcB
 - https://www.openculture.com/freelanguagelessons
 - https://www.italki.com/
