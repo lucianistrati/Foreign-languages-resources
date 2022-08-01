@@ -39,6 +39,7 @@ This repo contains some resources I've used alongside years in order to learn En
 # Spanish
 - https://english.elpais.com/economy-and-business/2021-11-15/el-pais-offers-free-spanish-lessons-with-gymglish.html
 - https://www.donquijote.org/official-spanish-exams/dele-course-20/
+- https://www.spanishpod101.com/
 
 # Italian
 - https://www.theitalianexperiment.com/
