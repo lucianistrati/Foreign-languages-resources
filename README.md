@@ -30,6 +30,7 @@ This repo contains some resources I've used alongside years in order to learn En
 
 # Italian
 - https://www.theitalianexperiment.com/
+- https://onlineitalianclub.com/free-italian-exercises-and-resources/
 
 # Portuguese
 - https://www.practiceportuguese.com/
