@@ -30,6 +30,7 @@ This repo contains some resources I've used alongside years in order to learn En
 - https://www.dw.com/en/learn-german/s-2469
 - https://www.studying-in-germany.org/learn-german/
 - https://www.deutsch-lernen.com/learn-german-online/beginners/summary.php
+- https://deutsch.info/
 
 # Spanish
 - https://english.elpais.com/economy-and-business/2021-11-15/el-pais-offers-free-spanish-lessons-with-gymglish.html
