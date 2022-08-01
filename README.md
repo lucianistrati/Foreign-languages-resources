@@ -35,3 +35,4 @@ This repo contains some resources I've used alongside years in order to learn En
 
 # Portuguese
 - https://www.practiceportuguese.com/
+- https://www.instituto-camoes.pt/en/activity-camoes/what-we-do/learn-portuguese
