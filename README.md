@@ -8,7 +8,7 @@ This repo contains some resources I've used alongside years in order to learn En
 - https://jointoucan.com/dashboard/settings
 - https://uk.babbel.com/pages/
 - https://www.lingohut.com/en
-- https://www.rosettastone.eu/lp/h3/?utm_campaign=AW_NonBrand_NU_EMEA_ENG_Generic&gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqBRtkdVz5_g-h8aVMFeIHSuVy_r4saCC9tO9wcU5383DEp7sgGiYBAaAlPSEALw_wcB
+- https://www.rosettastone.eu/
 - https://preply.com/
 - https://www.italki.com/
 - https://www.openculture.com/freelanguagelessons
