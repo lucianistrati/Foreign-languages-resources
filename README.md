@@ -14,6 +14,7 @@ This repo contains some resources I've used alongside years in order to learn En
 - https://www.openculture.com/freelanguagelessons
 - https://www.italki.com/
 - https://www.edx.org/learn
+- https://www.berlitz.com/
 
 # English
 - https://www.bbc.co.uk/learningenglish/
