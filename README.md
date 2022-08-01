@@ -16,6 +16,7 @@ This repo contains some resources I've used alongside years in order to learn En
 - https://www.edx.org/learn
 - https://www.berlitz.com/
 - https://www.mondly.com/
+- https://www.fluentu.com/
 
 # English
 - https://www.bbc.co.uk/learningenglish/
