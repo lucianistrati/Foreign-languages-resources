@@ -51,4 +51,3 @@ This repo contains some resources I've used alongside years in order to learn En
 - https://www.practiceportuguese.com/
 - https://www.instituto-camoes.pt/en/activity-camoes/what-we-do/learn-portuguese
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
